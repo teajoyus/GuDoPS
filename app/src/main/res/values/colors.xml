@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3eadeb</color>
+    <color name="colorPrimaryDark">#3eadeb</color>
+    <color name="colorAccent">#3eadeb</color>
+
+    <color name="green">#10c694</color>
+    <color name="Pink">#e16e67</color>
+
+    <color name="map_line">#ff5dcc99</color>
+</resources>
